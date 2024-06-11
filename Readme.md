@@ -54,7 +54,7 @@ Vocabulary:
 ```
 
 ## Term frequency
-$$TF_{word,document} = \frac{\#\_of\_times\_word\_appears\_in\_document}{total\_\#\_of\_words\_in\_document}$$
+$$TF_{word,document} = \frac{\No\_of\_times\_word\_appears\_in\_document}{total\_\No\_of\_words\_in\_document}$$
 
 ```
 ['jack', 'stole', 'sandwich', 'tuna']
@@ -67,7 +67,7 @@ $$TF_{word,document} = \frac{\#\_of\_times\_word\_appears\_in\_document}{total\_
 [1/5, 0, 0, 0, 1/5, 1/5, 2/5, 0, 0, 0]
 ```
 ## Document frequency
-$$ DF_{word} = \frac{\#\_of\_documents\_containing\_word}{total\_\#\_of\_documents} $$
+$$ DF_{word} = \frac{\No\_of\_documents\_containing\_word}{total\_\No\_of\_documents} $$
 
 Vocabulary:
 ```
