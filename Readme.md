@@ -87,7 +87,10 @@ Document frequency for each word:
 
 
 ## Inverse document frequency
-$$ IDF_{word} = \log\left(\frac{total\_\#\_of\_documents}{\#\_of\_documents\_containing\_word}\right) $$
+$$
+IDF_{\text{word}} = \log\left(\frac{\text{total \N of documents}}{\text{\N of documents containing word}}\right)
+$$
+
 
 
 Vocabulary:
